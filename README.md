@@ -1,0 +1,11 @@
+# lets-grow-more
+LetsGrowMore
+
+This repository contains the tasks that
+ I'm completing while working as an
+ intern for @LetsGrowMore.
+
+Internship Category - Data Science Intern
+Internship Duration - 1 Month ( October 2021 )
+Internship Type - Remote
+Task-1: IRIS Flowers Classification ML Project.
