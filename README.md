@@ -7,8 +7,7 @@ This repository contains the tasks that
 
 Internship Category - Data Science Intern
 Internship Duration - 1 Month ( October 2021 )
-Internship Type - Remote
-Task-1: IRIS Flowers Classification ML Project.
+#Task-1: IRIS Flowers Classification ML Project.
 
 
 Data set link
